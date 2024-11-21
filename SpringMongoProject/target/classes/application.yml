@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://newuser:admin1@cluster0.qfswd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: LindaDb
